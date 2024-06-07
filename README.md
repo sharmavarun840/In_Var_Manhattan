@@ -6,3 +6,4 @@ import numpy as np
 from matplotlib.widgets import Slider
 from adjustText import adjust_text
 from tqdm import tqdm
+Calcuate the p value to -log 10 (p) and plot interactive manhattan pot where you can adjust your GWAS threshold and every significant SNP gets annoated 

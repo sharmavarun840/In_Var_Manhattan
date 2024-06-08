@@ -1,4 +1,4 @@
-Can us .assoc file in excel and plot the manhattan 
+You can use .assoc file in excel and plot the manhattan 
 Dependencies required: import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
